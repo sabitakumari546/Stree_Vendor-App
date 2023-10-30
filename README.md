@@ -29,11 +29,3 @@ StreeVendors is a platform that connects women-owned local stores with shoppers 
 
 We welcome contributions from the community to help make StreeVendors a better platform for women entrepreneurs. If you are interested in contributing, please fork the repository and submit a pull request. 👨‍💻
 
-## License 📄
-
-StreeVendors is open-sourced software licensed under the MIT license. 
-
-## Contact 📱
-
-If you have any questions or feedback, please reach out to us at streevendors@gmail.com. 📧
-
